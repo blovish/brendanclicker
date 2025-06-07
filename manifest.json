@@ -3,12 +3,12 @@
   "short_name": "Brendan",
   "icons": [
     {
-      "src": "/logo.png",
+      "src": "https://blovish.github.io/brendanclicker/logo.png",
       "sizes": "1024x1024",
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://blovish.github.io/brendanclicker/",
   "display": "fullscreen",
   "background_color": "#333",
   "theme_color": "#42b983"
